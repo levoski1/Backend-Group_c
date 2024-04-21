@@ -1,4 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/python3
+# API to fetch weather data based on user input
+# Hey!!!! please look at README.md first
 import requests
 
 
