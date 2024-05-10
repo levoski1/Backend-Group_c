@@ -40,8 +40,14 @@ Before using or contributing to this project, please ensure the following steps 
 ## Contributors
 
 [Ugwoke Levi](https://twitter.com/Lsoromto)
+
+
 [Noah](noahayebu.na@gmail.com)
+
+
 [Ernest](+234810154 0593)
+
+
 
 ## License
 This project is open-sourced under the MIT license.
