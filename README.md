@@ -41,11 +41,9 @@ Before using or contributing to this project, please ensure the following steps 
 
 [Ugwoke Levi](https://twitter.com/Lsoromto)
 
-
 [Noah](noahayebu.na@gmail.com)
 
-
-[Ernest](+234810154 0593)
+[Ernest](tel:+234810154 0593)
 
 
 
